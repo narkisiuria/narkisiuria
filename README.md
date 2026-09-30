@@ -7,9 +7,9 @@ I create / recreate / automate offensive Red Team tools using Python & AI
 I create custom reverse shell loaders using different AV Evasion techniques to evade AVs  
 
 ### What I work with
-**Automation & AI:** `Python` `Groq/Mistral` `LLM APIs` `Agentic Workflows` `Multi-Agent Concentration` `Public APIs` `CLI`
+**Automation & AI:** `Python` `Groq/Mistral` `Public LLM APIs` `Agentic Workflows` `Multi-Agent Concentration` `multi threding`
 
-**AV Evasion & Defender** `Custom Loaders` `Reverse Shells` `VT` `C` `Encryption Scripts` `Metasploit` `Process Injection` `Early Bird`
+**AV Evasion & Defender** `Reverse Shells` `VT` `C` `Process Injection` `Encryption Scripts` `Metasploit` `Early Bird` `Custom Loaders`
 
 **Offensive & Labs:** `Kali Linux` `VB` `AD` `GOAD` `VMs` `CTFs` `Windows` `searchsploit` `Lin/winpeas` `WPscan`
 
