@@ -1,18 +1,22 @@
 # Hi, I'm Uria Narkisi
 
-**Aspiring Red Teamer & Security Automation Engineer | 15 YO | Israel**
+**Aspiring Red Teamer & Security Automation Engineer | Red Team | 15 YO | Israel**
 
-I build & automate offensive tools, set up corporate networks to test them, and write guides on how to hack them from scratch.
+I set up simulated organization networks while documenting every set-up/trubleshoot/attack & creating guides out of it                                                                                 
+I create / recreate / automate offensive Red Team tools using Python & AI        
+I create custom reverse shell loaders using different AV Evasion techniques to evade AVs  
 
 ### What I work with
-**Offensive & Labs:** `Kali Linux` `Active Directory` `GOAD` `PowerShell` `Metasploit` `Mimikatz`
+**Automation & AI:** `Python` `Groq/Mistral` `LLM APIs` `Agentic Workflows` `Multi-Agent Concentration` `Public APIs` `CLI`
 
-**Networking & Data:** `TCP/IP` `Raw Sockets` `Wireshark` `Packet Crafting` `Network Layers (L3/L4)`
+**AV Evasion & Defender** `Custom Loaders` `Reverse Shells` `VT` `C` `Encryption Scripts` `Metasploit` `Process Injection` `Early Bird`
 
-**Automation & AI:** `Python` `Bash` `LLM APIs` `Agentic Workflows` `Multi-Agent Orchestration`
+**Offensive & Labs:** `Kali Linux` `VB` `AD` `GOAD` `VMs` `CTFs` `Windows` `searchsploit` `Lin/winpeas` `WPscan`
+
+**Networking & Data:** `Cisco PT` `Python` `Subneting` `SSL` `Raw Sockets` `burpsuite` `Wireshark` `Packet Crafting` 
 
 
-### Top projects
+### Top 5 projects
 
 | Project | What it proves |
 | :--- | :--- |
