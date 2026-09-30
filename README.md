@@ -3,7 +3,7 @@
 **Aspiring Red Teamer & Security Automation Engineer | Red Team | 15 YO | Israel**
 
 I set up simulated organization networks while documenting every set-up/trubleshoot/attack & creating guides out of it                                                                                 
-I create / recreate / automate offensive Red Team tools using Python & AI        
+I create / recreate / automate offensive Red Team tools using Python & agent APIs       
 I create custom reverse shell loaders using different AV Evasion techniques to evade AVs  
 
 ### What I work with
