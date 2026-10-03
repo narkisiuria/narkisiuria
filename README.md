@@ -9,19 +9,20 @@ I create custom reverse shell loaders using different AV Evasion techniques to e
 ### What I work with
 **Automation & AI:** `Python` `Groq/Mistral` `Public LLM APIs` `Agentic Workflows` `Multi-Agent Concentration` `multi threding`
 
-**AV Evasion & Defender** `Reverse Shells` `VT` `C` `Process Injection` `Encryption Scripts` `Metasploit` `Early Bird` `Custom Loaders`
+**AV Evasion & Defender** `Reverse Shells` `VT` `C` `Process Injection` `Scripting` `Metasploit` `Early Bird` `Custom Loaders`
 
 **Offensive & Labs:** `Kali Linux` `VB` `AD` `GOAD` `VMs` `CTFs` `Windows` `searchsploit` `Lin/winpeas` `WPscan`
 
 **Networking & Data:** `Cisco PT` `Python` `Subneting` `SSL` `Raw Sockets` `burpsuite` `Wireshark` `Packet Crafting` 
 
 
-### Top 5 projects
+### Top 6 projects
 
 | Project | What it proves |
 | :--- | :--- |
 | [Autonomous-Multi-Agent-AI-Hacking-Framework](https://github.com/narkisiuria/Autonomous-Multi-Agent-AI-Hacking-Framework) | Making an autonomous multi agent AI system come together with only using a public agent API with the goal of them completing CTFs & Red Team tasks with no human being involved |
 | [Network-PT-AD-lab-setup-with-full-Attack-Guides](https://github.com/narkisiuria/Network-PT-AD-lab-setup-with-full-Attack-Guides) | Simulating a fake organization network using VMs, making full setup & attack guides while documenting every step and trubleshoot on the way
+| [Custom-Win11-Defender-Bypass-Research-Lab-Pipeline](https://github.com/narkisiuria/Custom-Win11-Defender-Bypass-Research-Lab-Pipeline) | Creating a research pipeline on how to bypass windows 11 defender with multiple AV Evasion techniques using custom C loaders, encryption and runner scripts to bypass detection
 | [AI-Automated-Red-Team-Tools](https://github.com/narkisiuria/AI-Automated-Red-Team-Tools) | Creating, Recreating and Automating Red Team tools such as `Nmap` `SearchSploit` `Win/Linpeas` `and custom ones` using Python & public agent APIs (groq/mistral) 
 | [Jarvis-AI-Terminal-Agent](https://github.com/narkisiuria/Jarvis-AI-Terminal-Agent) | Building an AI agent that lives inside a real PowerShell session. Type or speak and it runs commands, fixes its own errors, researches the web, and remembers you. Not a simulation. Python & Groq API
 | [Raw-Socket-SYN-Scanner](https://github.com/narkisiuria/Raw-Socket-SYN-Scanner) | A SYN port scanner built entirely from raw sockets - 0 external packet libraries. IP and TCP headers (including checksums) are crafted from scratch. build using Python only |
