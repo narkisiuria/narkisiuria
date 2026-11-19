@@ -11,7 +11,7 @@ I create custom reverse shell loaders using different AV Evasion techniques to e
 
 **AV Evasion & Defender** `Reverse Shells` `VT` `C` `Process Injection` `Scripting` `Metasploit` `Early Bird` `Custom Loaders`
 
-**Offensive & Labs:** `Kali Linux` 'OffSec' `VB` `AD` `GOAD` `VMs` `CTFs` `Windows` `searchsploit` `Lin/winpeas` `WPscan`
+**Offensive & Labs:** `Kali Linux` `OffSec` `VB` `AD` `GOAD` `VMs` `CTFs` `Windows` `searchsploit` `Lin/winpeas` `WPscan`
 
 **Networking & Data:** `Cisco PT` `Python` `Subneting` `SSL` `Raw Sockets` `burpsuite` `Wireshark` `Packet Crafting` 
 
