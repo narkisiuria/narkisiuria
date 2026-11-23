@@ -1,4 +1,4 @@
-# Hi, I'm Uria Narkisi
+# Hi, I'm Uria.
 
 **Aspiring Red Teamer & Security Automation Engineer | Red Team | 15 YO | Israel**
 
